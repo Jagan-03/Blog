@@ -37,6 +37,7 @@ body {
 }
 header h1{
     font-size: 50px;
+    color: #dc3545;
 }
 a {
     text-decoration: none;
